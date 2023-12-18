@@ -1,4 +1,4 @@
-# Project 4 - Quick-Read Thermometer
+# Project 4a: Quick-Read Thermometer
 
 ## Description
 This project uses LEDs to indicate temperature levels. The project includes a simple Arduino sketch that reads temperature from a sensor and lights up corresponding LEDs based on predefined temperature thresholds.
