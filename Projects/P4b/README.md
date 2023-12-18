@@ -15,6 +15,7 @@ The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code](#code)
+- [Code Explanation](#code-explanation)
 
 ## Components Used
 - Arduino board
@@ -37,7 +38,7 @@ The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually
 ## Code
 [Arduino Sketch](code/digital_thermo.ino)
 
-### Code Explanation
+## Code Explanation
 - **Pin Definitions:**
   - The code starts by defining constant values for pin assignments. `data`, `latch`, and `clock` represent the pins connected to the 7-segment display, while `sensorPin` is the analog pin connected to the temperature sensor.
 
