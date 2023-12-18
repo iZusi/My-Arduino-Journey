@@ -9,7 +9,7 @@ Explore my Arduino journey through the following projects:
 1. [Project 1 - LED Blinking Wave](Projects/P1/README.md): My first step into Arduino, where I learned the basics by making a blinking wave of LEDs.
 2. [Project 2 - Digital Input](Projects/P2/README.md): Exploring interaction and responsiveness through digital input with Arduino.
 3. [Project 3 - Single-cell Battery Tester](Projects/P3/README.md): Creating a single-cell battery tester to measure voltage capacities of AA batteries.
-4. [Project 4 - Quick-Read Thermometer](Projects/P4/README.md): A simple quick-read thermometer to test different temperature ranges.
+4. [Project 4 - Quick-Read Thermometer](Projects/P4a/README.md): A simple quick-read thermometer to test different temperature ranges.
 
 ## Goals
 I aspire to progress further into the world of electronics, robotics, and IoT. My goals include:
