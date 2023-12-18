@@ -28,7 +28,7 @@ The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually
 
 ## Installation
 1. Connect the temperature sensor and 7-segment display to the specified pins, according to the circuit.
-2. Upload the provided Arduino sketch (`quick_read_thermometer.ino`) to your Arduino board.
+2. Upload the provided Arduino sketch (`digital_thermo.ino`) to your Arduino board.
 
 ## Usage
 1. Power up your Arduino board.
