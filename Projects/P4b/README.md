@@ -1,6 +1,7 @@
 # Project 4b: Enhanced Quick-Read Thermometer with 7-Segment Display
 
-![Media](media/dt.gif)
+![Image01](media/dt01.jpg)
+![Image02](media/dt02.jpg)
 
 ## Description
 The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually represent temperature readings. The project displays the temperature on a 7-segment LED display.
