@@ -11,6 +11,7 @@ Explore my Arduino journey through the following projects:
 3. [Project 3 - Single-cell Battery Tester](Projects/P3/README.md): Creating a single-cell battery tester to measure voltage capacities of AA batteries.
 4. [Project 4a - Quick-Read Thermometer](Projects/P4a/README.md): A simple quick-read thermometer to test different temperature ranges.
 5. [Project 4b - Enhanced Quick-Read Thermometer](Projects/P4b/README.md): The enhanced version of the quick-read thermometer with a 7-segment LED for visual display.
+6. [Project 5 - Controlling Traffic with Two 7-Segment LEDs](Projects/P5/README.md): A simulation of a real-world traffic control system
 
 ## Goals
 I aspire to progress further into the world of electronics, robotics, and IoT. My goals include:
