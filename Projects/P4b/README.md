@@ -25,8 +25,8 @@ The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually
 - Arduino board
 - LM35 temperature sensor
 - Two 7-segment LEDs
-- Two shift registers (74SCH595)
-- Breadboard, Arduino, and jumper wires
+- Two shift registers (74HC595)
+- Breadboard and jumper wires
 
 ## Circuit
 ![Circuit Diagram](circuit/digital_thermo_schem.jpg)
