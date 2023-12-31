@@ -40,7 +40,7 @@ void displayNumber(int n) {
   }
 
   // If the number is less than 10
-  else if (n < 10) {
+  if (n < 10) {
     // Activate the latch and shift out segment configurations for the single digit
     digitalWrite(latch, LOW);
     shiftOut(data, clock, LSBFIRST, digits[n]);
