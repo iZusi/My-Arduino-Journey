@@ -18,6 +18,7 @@ Explore my Arduino journey through the following projects:
 Most of my projects are inspired by or directly from:
   - ["Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall](https://nostarch.com/arduino-workshop-2nd-edition)
   - ["Arduino Project Handbook: 25 Practical Projects to Get You Started" by Mark Geddes](https://nostarch.com/arduinohandbook)
+
 I greatly appreciate the valuable guidance and knowledge provided by these resources.
 
 ## Goals
