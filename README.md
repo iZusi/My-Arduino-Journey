@@ -12,6 +12,7 @@ Explore my Arduino journey through the following projects:
 4. [Project 4a - Quick-Read Thermometer](Projects/P4a/README.md): A simple quick-read thermometer to test different temperature ranges.
 5. [Project 4b - Enhanced Quick-Read Thermometer](Projects/P4b/README.md): The enhanced version of the quick-read thermometer with a 7-segment LED for visual display.
 6. [Project 5 - Controlling Traffic with Two 7-Segment LEDs](Projects/P5/README.md): A simulation of a real-world traffic control system
+7. [Project 6 - Weather Station](Projects/P6/README.md): A weather station to check real-time temperature and humidity readings using Arduino and DHT11 sensor, displayed on an LCD screen
 
 ## Acknowledgment
 Most of my projects are inspired by or directly from ["Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall](https://nostarch.com/arduino-workshop-2nd-edition). I greatly appreciate the valuable guidance and knowledge provided by this resource.
