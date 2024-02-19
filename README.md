@@ -15,7 +15,10 @@ Explore my Arduino journey through the following projects:
 7. [Project 6 - Weather Station](Projects/P6/README.md): A weather station to check real-time temperature and humidity readings using Arduino and DHT11 sensor, displayed on an LCD screen
 
 ## Acknowledgment
-Most of my projects are inspired by or directly from ["Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall](https://nostarch.com/arduino-workshop-2nd-edition). I greatly appreciate the valuable guidance and knowledge provided by this resource.
+Most of my projects are inspired by or directly from:
+- ["Arduino Workshop: A Hands-On Introduction with 65 Projects" by John Boxall](https://nostarch.com/arduino-workshop-2nd-edition)
+- ["Arduino Project Handbook: 25 Practical Projects to Get You Started" by Mark Geddes](https://nostarch.com/arduinohandbook)
+I greatly appreciate the valuable guidance and knowledge provided by these resources.
 
 ## Goals
 I aspire to progress further into the world of electronics, robotics, and IoT. My goals include:
