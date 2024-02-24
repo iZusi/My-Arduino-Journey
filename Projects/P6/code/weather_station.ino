@@ -40,7 +40,13 @@ void loop(){
   // check if DHT sensor is working
   if (isnan(t) || isnan(h)){
     lcd.setCursor(0, 0);
-    lcd.print("Failed to read from DHT");
+    lcd.print("Failed to read from DHT sensor");
+    
+    // scroll characters to the left of the screen
+    for(int counter = 0; counter < 13; counter++){
+      lcd.scrollDisplayLeft();
+      delay(150);
+    }
   }
   // otherwise show readings on the screen
   else{

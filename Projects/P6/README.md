@@ -3,6 +3,7 @@
 ![Image01](media/ws1.jpg)
 ![Image02](media/ws2.jpg)
 ![Image03](media/ws3.jpg)
+![Image04](media/ws4.gif)
 
 ## Description
 This project is a simple weather station built using a DHT11 sensor and a 16x2 LCD screen. The sensor measures the temperature and humidity, and the readings are displayed in real-time on the LCD screen.
