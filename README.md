@@ -11,8 +11,9 @@ Explore my Arduino journey through the following projects:
 3. [Project 3 - Single-cell Battery Tester](Projects/P3/README.md): Creating a single-cell battery tester to measure voltage capacities of AA batteries.
 4. [Project 4a - Quick-Read Thermometer](Projects/P4a/README.md): A simple quick-read thermometer to test different temperature ranges.
 5. [Project 4b - Enhanced Quick-Read Thermometer](Projects/P4b/README.md): The enhanced version of the quick-read thermometer with a 7-segment LED for visual display.
-6. [Project 5 - Controlling Traffic with Two 7-Segment LEDs](Projects/P5/README.md): A simulation of a real-world traffic control system
-7. [Project 6 - Weather Station](Projects/P6/README.md): A weather station to check real-time temperature and humidity readings using Arduino and DHT11 sensor, displayed on an LCD screen
+6. [Project 5 - Controlling Traffic with Two 7-Segment LEDs](Projects/P5/README.md): A simulation of a real-world traffic control system.
+7. [Project 6 - Weather Station](Projects/P6/README.md): A weather station to check real-time temperature and humidity readings using Arduino and DHT11 sensor, displayed on an LCD screen.
+8. [Project 7 - Intruder Alarm](Projects/P7/README.md): An alarm system utilizing an ultrasonic sensor to detect nearby objects.
 
 ## Acknowledgment
 Most of my projects are inspired by or directly from:

@@ -62,14 +62,14 @@ This project is a simple weather station built using a DHT11 sensor and a 16x2 L
 - `degreeSymbol`: Defines a custom character array representing the degree symbol, used for displaying temperature readings.
 
 **Setup Function:**
-- `dht.begin();`: Initiates communication with the DHT sensor.
-- `lcd.begin(16, 2);`: Initializes the LCD screen with a 16x2 character size.
-- `lcd.clear();`: Clears any existing content on the LCD screen.
-- `lcd.createChar(0, degreeSymbol);`: Creates a custom character for the degree symbol and assigns it to index 0.
+- `dht.begin()`: Initiates communication with the DHT sensor.
+- `lcd.begin(16, 2)`: Initializes the LCD screen with a 16x2 character size.
+- `lcd.clear()`: Clears any existing content on the LCD screen.
+- `lcd.createChar(0, degreeSymbol)`: Creates a custom character for the degree symbol and assigns it to index 0.
 
 **Loop Function:**
-- `float h = dht.readHumidity();`: Reads the humidity value from the DHT sensor.
-- `float t = dht.readTemperature();`: Reads the temperature value from the DHT sensor.
+- `float h = dht.readHumidity()`: Reads the humidity value from the DHT sensor.
+- `float t = dht.readTemperature()`: Reads the temperature value from the DHT sensor.
 - Error Handling:
   - Checks if the temperature or humidity readings are invalid using `isnan()` function.
   - Displays an error message on the LCD screen if the readings are invalid.
