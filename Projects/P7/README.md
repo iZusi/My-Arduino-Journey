@@ -21,7 +21,7 @@
 This project creates an intruder alarm system using an ultrasonic sensor (HC-SR04), LEDs, and a buzzer. When an object is detected within a certain range, the alarm system is triggered, activating a buzzer and a red LED. When the area is clear, a green LED indicates that everything is normal.
 
 ## Video Demo
-![Watch the video demo(https://img.youtube.com/vi/QemIVg4Usqo/0.jpg)](https://youtube.com/watch?v=QemIVg4Usqo)
+[![Watch the video demo](https://img.youtube.com/vi/QemIVg4Usqo/0.jpg)](https://youtube.com/watch?v=QemIVg4Usqo)
 
 ## Table of Contents
 - [Components Used](#components-used)
