@@ -8,7 +8,7 @@
 In this project, I have used two 7-segment LEDs (as my timer) to simulate a traffic control system. The code defines the pin configurations for the LEDs and traffic lights, creating a visual display that mimics a real traffic scenario.
 
 ## Video Demo
-[![Watch the video demo](https://img.youtube.com/vi/TUFj05jSiOo/0.jpg)](https://youtube.com/watch?v=TUFj05jSiOo)
+[![Watch the video demo](https://img.youtube.com/vi/sA13ujEV0s8/0.jpg)](https://youtube.com/watch?v=sA13ujEV0s8)
 
 ## Features
 - Traffic Light Simulation: The project simulates a traffic light system with red, yellow, and green phases, providing a visual representation of a real-world traffic scenario.
