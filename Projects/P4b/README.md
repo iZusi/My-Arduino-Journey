@@ -7,7 +7,7 @@
 The Enhanced Quick-Read Thermometer now includes a 7-segment display to visually represent temperature readings. The project displays the temperature on a 7-segment LED display.
 
 ## Video Demo
-[![Watch the video demo](https://img.youtube.com/vi/SdluQlCqz0k/0.jpg)](https://youtube.com/watch?v=SdluQlCqz0k)
+[![Watch the video demo](https://img.youtube.com/vi/7CeYm_Ou4Y4/0.jpg)](https://youtube.com/watch?v=7CeYm_Ou4Y4)
 
 ## Features
 - 7-segment LED display for visual temperature representation.
